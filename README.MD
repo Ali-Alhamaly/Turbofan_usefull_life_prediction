@@ -24,7 +24,7 @@ the main findings of the code can be found at the Medium post available [here](h
 
 ## Licensing, Authors, Acknowledgements
 
-the data used in this project was obtained from [Prognostics CoE at NASA Ames (https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) 
+the data used in this project was obtained from [Prognostics CoE at NASA Ames](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) 
 
 
 the algorithm idea follows closely :
